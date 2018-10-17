@@ -1,6 +1,6 @@
 {
   "name": "ebabel-utils",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "description": "Small utility functions for game development.",
   "main": "index.js",
   "engines": {
@@ -22,16 +22,14 @@
   ],
   "author": "Thomas Amar <hello@ebabel.eu> (https://ebabel.eu/)",
   "contributors": [
-    "Dave Pitts <dgapitts@gmail.com> (https://github.com/dgapitts)"
+    "Dave Pitts <dgapitts@gmail.com> (https://github.com/dgapitts)",
+    "Thalyta Fabrine <thalyta.trindade@ccc.ufcg.edu.br> (https://github.com/thalytafabrine)"
   ],
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/ebabel-games/ebabel-utils/issues"
   },
   "homepage": "https://github.com/ebabel-games/ebabel-utils#readme",
-  "dependencies": {
-    "ebabel-random": "^1.1.3"
-  },
   "devDependencies": {
     "ajv": "^6.5.4",
     "babel-eslint": "^10.0.1",
